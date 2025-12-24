@@ -1,1 +1,1 @@
-# Dashboard
+technicalsupport.lovable.app
